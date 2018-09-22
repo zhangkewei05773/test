@@ -1,7 +1,6 @@
-his is test
+hs is test
 
 add message at master branch!
 
-dd message at branch01
 
 add message at master! 
